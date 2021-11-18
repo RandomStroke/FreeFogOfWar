@@ -12,6 +12,7 @@
 ![fow_5](https://user-images.githubusercontent.com/36265375/142426177-7354c304-1168-4e49-9233-9706af24e2e1.gif)
 
 ##################
+
 Fog of war post effect made for Unity ( must work on any version ). Doesn't use any advanced URP and HDR stuff, just the most basic implementation.
 Also works on cheap mobiles ( tested on INOI 2 2021 )
 Package contains a sample scene and all realted resources. All the parameters may be set through the FogOfWarEffect.cs or directly in the FogOfWar.shader
