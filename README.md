@@ -21,5 +21,7 @@ DynamicFog : демонстрация использования RenderTexture �
 Fog of war post effect made for Unity ( must work on any version ). Doesn't use any advanced URP and HDR stuff, just the most basic implementation.
 Also works on cheap mobiles ( tested on INOI 2 2021 )
 Package contains 2 scenes with all realted resources. 
+
 StaticFog : showcases a simple usage of a parametric "global" mask for the whole screen.
+
 DynamicFog : showcases a simple usage of a dynamic masks that can be controlled in a run-time.
