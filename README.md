@@ -14,6 +14,7 @@ StaticFog : демонстрация использования параметр
 ![fow_5](https://user-images.githubusercontent.com/36265375/142426177-7354c304-1168-4e49-9233-9706af24e2e1.gif)
 
 DynamicFog : демонстрация использования RenderTexture для создания управляемых ( динамических ) масок.
+![fow2_2](https://user-images.githubusercontent.com/36265375/143091615-72481d14-cadf-46e9-bc32-034fba75f638.gif)
 
 ##################
 
