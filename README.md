@@ -1,7 +1,7 @@
 ##################
 
-![fow_pr_2](https://user-images.githubusercontent.com/36265375/142424832-5b2e9567-e71b-4a9b-9910-aba0e6bd8da1.gif)
-![fow2_1](https://user-images.githubusercontent.com/36265375/143087617-ca1edc58-aae9-470b-a8c6-956e4d2e12c2.gif)
+![fow1_1](https://user-images.githubusercontent.com/36265375/143090472-317ae72e-d342-4029-889b-09b2e4f62857.gif)
+![fow2_1](https://user-images.githubusercontent.com/36265375/143090516-7d19281e-ea1f-4f17-8844-f8eccbf73bcd.gif)
 
 Эффект тумана войны для Unity ( должен работать на любой версии ). Не использует какой-либо функционал URP или HDR пайплайна , реализован в виде пост эффекта.
 Работает на бюджетных мобильных устройствах ( тестировался на INOI 2 2021 )
